@@ -1,0 +1,32 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Luciana",
+            "email": "luciana_m@gmail.com",
+            "password":"1212",
+            "token":"1f32aa4c9a1d2ea010adcf2348166a04"
+        },
+        {
+            "id": 2,
+            "name": "Lucas",
+            "email": "lucas_2000@gmail.com",
+            "password":"1010",
+            "token":"aca3d3d99a7d3a4f4a173796c1d4ee9a"
+        },
+        {
+            "id": 3,
+            "name": "Marcos",
+            "email": "marcos@gmail.com",
+            "password":"1313",
+            "token":"3b45d35c0f20e2c2f73014261b2d845c"
+        },
+        {
+            "id": 4,
+            "name": "Carla",
+            "email": "carla12@gmail.com",
+            "password":"1414",
+            "token":"4c27251dd474859b4ca71bf78c82d924"
+        }
+    ]
+}
